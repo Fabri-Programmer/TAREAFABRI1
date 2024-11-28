@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\TAREAFABRI1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|c:\\users\\fabri llara\\downloads\\tareafabri1\\solucion\\tussi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|c:\\users\\administrator\\tareafabri1\\solucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|solutionrelative:solucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|c:\\users\\administrator\\tareafabri1\\solucion\\tussi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|solutionrelative:solucion\\tussi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|c:\\users\\fabri llara\\downloads\\tareafabri1\\solucion\\marihuana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|solutionrelative:solucion\\marihuana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|c:\\users\\fabri llara\\downloads\\tareafabri1\\solucion\\pbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|c:\\users\\administrator\\tareafabri1\\solucion\\pbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|solutionrelative:solucion\\pbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|c:\\users\\fabri llara\\downloads\\tareafabri1\\solucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|solutionrelative:solucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|c:\\users\\administrator\\tareafabri1\\solucion\\marihuana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A1F102-4ABB-418A-B980-74217F4014F5}|SOLUCION\\SOLUCION.csproj|solutionrelative:solucion\\marihuana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +26,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Pbc.cs",
-              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\Pbc.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\TAREAFABRI1\\SOLUCION\\Pbc.cs",
               "RelativeDocumentMoniker": "SOLUCION\\Pbc.cs",
-              "ToolTip": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\Pbc.cs",
+              "ToolTip": "C:\\Users\\Administrator\\TAREAFABRI1\\SOLUCION\\Pbc.cs",
               "RelativeToolTip": "SOLUCION\\Pbc.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T06:47:31.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Tussi.cs",
-              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\Tussi.cs",
-              "RelativeDocumentMoniker": "SOLUCION\\Tussi.cs",
-              "ToolTip": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\Tussi.cs",
-              "RelativeToolTip": "SOLUCION\\Tussi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T06:47:22.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T06:47:31.934Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Marihuana.cs",
-              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\Marihuana.cs",
-              "RelativeDocumentMoniker": "SOLUCION\\Marihuana.cs",
-              "ToolTip": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\Marihuana.cs",
-              "RelativeToolTip": "SOLUCION\\Marihuana.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Title": "Tussi.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\TAREAFABRI1\\SOLUCION\\Tussi.cs",
+              "RelativeDocumentMoniker": "SOLUCION\\Tussi.cs",
+              "ToolTip": "C:\\Users\\Administrator\\TAREAFABRI1\\SOLUCION\\Tussi.cs",
+              "RelativeToolTip": "SOLUCION\\Tussi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T06:47:05.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T06:47:22.854Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Marihuana.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\TAREAFABRI1\\SOLUCION\\Marihuana.cs",
+              "RelativeDocumentMoniker": "SOLUCION\\Marihuana.cs",
+              "ToolTip": "C:\\Users\\Administrator\\TAREAFABRI1\\SOLUCION\\Marihuana.cs",
+              "RelativeToolTip": "SOLUCION\\Marihuana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:47:05.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\TAREAFABRI1\\SOLUCION\\Program.cs",
               "RelativeDocumentMoniker": "SOLUCION\\Program.cs",
-              "ToolTip": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\TAREAFABRI1\\SOLUCION\\Program.cs",
               "RelativeToolTip": "SOLUCION\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwDIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T00:34:31.383Z",
               "EditorCaption": ""
