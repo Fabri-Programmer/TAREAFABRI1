@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\loisf\\Downloads\\SOLUCION\\SOLUCION\\SOLUCION.csproj": {}
+    "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\SOLUCION.csproj": {}
   },
   "projects": {
-    "C:\\Users\\loisf\\Downloads\\SOLUCION\\SOLUCION\\SOLUCION.csproj": {
+    "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\SOLUCION.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\loisf\\Downloads\\SOLUCION\\SOLUCION\\SOLUCION.csproj",
+        "projectUniqueName": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\SOLUCION.csproj",
         "projectName": "SOLUCION",
-        "projectPath": "C:\\Users\\loisf\\Downloads\\SOLUCION\\SOLUCION\\SOLUCION.csproj",
-        "packagesPath": "C:\\Users\\loisf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\loisf\\Downloads\\SOLUCION\\SOLUCION\\obj\\",
+        "projectPath": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\SOLUCION.csproj",
+        "packagesPath": "C:\\Users\\FABRI LLARA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FABRI LLARA\\Downloads\\TAREAFABRI1\\SOLUCION\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\loisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\FABRI LLARA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
